@@ -1,0 +1,7 @@
+*.рус
+*~
+--pycache--
+dvenv
+db.sqlite3
+/static
+.DS_Store
